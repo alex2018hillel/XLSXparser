@@ -1,5 +1,5 @@
 python -m pip install openpyxl
 python -m pip install pandas
-
+pip install requirements.txt
 
 pip freeze > requirements.txt
