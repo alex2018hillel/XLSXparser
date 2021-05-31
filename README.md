@@ -6,5 +6,5 @@ Read and convert JSON and aggregate information from xlsx file
 * copy JSON and xlsx file to folder
 
 # RUN
-python parser.py
-Enter test name
+* python parser.py
+* Enter test name
